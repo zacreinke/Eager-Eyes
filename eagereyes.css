@@ -2,7 +2,7 @@
 
 body {
 	background-color: #ffffff;
-	font-family: Montserrat;
+	font-family: Montserrat, sans-seriff;
 	margin: 0px;
 	padding: 0px;
 }
@@ -39,7 +39,7 @@ span {
 
 
 @font-face{
-	font-family:Open Sans;
+	font-family:Montserrat;
 	src:url(Open_Sans);
 }
 
